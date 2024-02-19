@@ -5,7 +5,7 @@
 </p>
 
 ## Veja os outros ReadMe do projeto EstoqueToc:
-[Documentação](documentation.md)  >[Front-End](https://github.com/EstoqueToc/FrontEnd) >[Back-End](backend.md) >[Pré-Requisitos](#pré-requisitos) >[Instalação](#instalação)
+[Documentação](documentation.md)  >[Front-End](https://github.com/EstoqueToc/FrontEnd) >[Back-End](https://github.com/EstoqueToc/BackEnd) >[Pré-Requisitos](#pré-requisitos) >[Instalação](#instalação)
 
 ## Projeto
 O EstoqueToc é um projeto desenvolvido em grupo na São Paulo Tech School, focado no gerenciamento de estoque para pequenas e médias empresas. </br>
