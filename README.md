@@ -1,11 +1,11 @@
 # EstoqueToc
 
 <p align="center">
-   <img src="https://github.com/EstoqueToc/EstoqueToc/blob/00da18a8c3de6829de098f3e1f5baf77c878b9dd/Free%20Simple%20Modern%20Circle%20Design%20Studio%20Logo%20(1).png" width="300" height="300"> 
+   <img src="1.png" width="300" height="300"> 
 </p>
 
-## Tabela de conteúdos
-[Projeto](#projeto)  >[Face do projeto](#face-do-projeto) >[Tecnologias](#tecnologias) >[Pré-Requisitos](#pré-requisitos) >[Instalação](#instalação)
+## Veja os outros ReadMe do projeto EstoqueToc:
+[Documentação](documentation.md)  >[Front-End](frontend.md) >[Back-End](backend.md) >[Pré-Requisitos](#pré-requisitos) >[Instalação](#instalação)
 
 ## Projeto
 O EstoqueToc é um projeto desenvolvido em grupo na São Paulo Tech School, focado no gerenciamento de estoque para pequenas e médias empresas. </br>
