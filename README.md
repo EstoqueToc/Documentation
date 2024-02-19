@@ -1,11 +1,13 @@
 # EstoqueToc
 
+
 <p align="center">
    <img src="1.png" width="300" height="300"> 
+   <p align="center">Gerenciando seu estoque com precisão e eficiência.</p>
 </p>
 
 ## Veja os outros ReadMe do projeto EstoqueToc:
-[Documentação](documentation.md)  >[Front-End](https://github.com/EstoqueToc/FrontEnd) >[Back-End](https://github.com/EstoqueToc/BackEnd) >[Pré-Requisitos](#pré-requisitos) >[Instalação](#instalação)
+🔗 [Documentação](https://github.com/EstoqueToc/Documentation)   🔗 [Front-End](https://github.com/EstoqueToc/FrontEnd)  🔗 [Back-End](https://github.com/EstoqueToc/BackEnd)
 
 ## Projeto
 O EstoqueToc é um projeto desenvolvido em grupo na São Paulo Tech School, focado no gerenciamento de estoque para pequenas e médias empresas. </br>
